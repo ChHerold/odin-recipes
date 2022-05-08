@@ -1,0 +1,22 @@
+.pie {
+    text-align: center;
+    font: weight 700px;
+    font-family:'Courier New', Courier, monospace;
+    color: blueviolet;
+    background-color: yellow;
+}
+
+body {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-family:'Courier New', Courier, monospace;
+    background-color: yellow;
+}
+
+img {
+    width: 500px;
+}

@@ -1,0 +1,30 @@
+img {
+    width: 500px;
+}
+
+body {
+    background-color: grey;
+}
+
+.recipe {
+    color: blueviolet;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.header,
+.ingredients,
+.steps {
+    text-align:center;
+}
+
+.fluff,
+.ingredients,
+.steps,
+.list,
+.header {
+    background-color: yellow;
+}
+
+div {
+    text-align: center;
+}
